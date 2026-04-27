@@ -1,8 +1,8 @@
 # Olá, eu sou Léo! 👋
 
-* 🎯 Estudante de Engenharia de Computação, apaixonado por resolver problemas e construir soluções. Atualmente, estou em busca de uma oportunidade de estágio em desenvolvimento de software ou suporte técnico para aplicar meus conhecimentos na prática e evoluir profissionalmente.
-* 📍 Brasil  
-🚀 O que estou fazendo no momento:
+- 🎯 Estudante de Engenharia de Computação, apaixonado por resolver problemas e construir soluções. Atualmente, estou em busca de uma oportunidade de estágio em desenvolvimento de software ou suporte técnico para aplicar meus conhecimentos na prática e evoluir profissionalmente.
+- 📍 Brasil
+- 🚀 O que estou fazendo no momento:
 * Desenvolvendo projetos práticos, focando desde interfaces web até lógicas de logística inteligente.
 * Praticando conceitos de segurança da informação em ambientes simulados.
 * Aprofundando estudos práticos em arquitetura e laboratórios de nuvem.
