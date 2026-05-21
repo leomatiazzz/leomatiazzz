@@ -85,9 +85,9 @@
 
 <div align="center">
 
-![leomatiazzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=leomatiazzz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leomatiazzz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomatiazzz&layout=compact&theme=radical&hide_border=true)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leomatiazzz&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 
 </div>
 
