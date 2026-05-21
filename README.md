@@ -14,23 +14,23 @@
 
 # Olá, eu sou Léo 👋
 
-<img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji/assets/Direct%20Hit/3D/direct_hit_3d.png" width="22" /> Estudante de Engenharia de Computação apaixonado por resolver problemas e construir soluções.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Fluentui-Emoji/main/Emojis/Activities/Direct%20Hit.png" width="22" /> Estudante de Engenharia de Computação apaixonado por resolver problemas e construir soluções.
 
 Atualmente busco uma oportunidade de **estágio em desenvolvimento de software ou suporte técnico** para aplicar meus conhecimentos na prática e evoluir profissionalmente.
 
-<img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji/assets/Round%20Pushpin/3D/round_pushpin_3d.png" width="18" /> Brasil  
-<img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji/assets/E-Mail/3D/e-mail_3d.png" width="18" /> leomatiasaraujo@gmail.com  
-<img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji/assets/Briefcase/3D/briefcase_3d.png" width="18" /> www.linkedin.com/in/leomatias/
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Fluentui-Emoji/main/Emojis/Travel%20%26%20Places/Round%20Pushpin.png" width="18" /> Brasil  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Fluentui-Emoji/main/Emojis/Objects/E-mail.png" width="18" /> leomatiasaraujo@gmail.com  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Fluentui-Emoji/main/Emojis/Objects/Briefcase.png" width="18" /> www.linkedin.com/in/leomatias/
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji/assets/Rocket/3D/rocket_3d.png" width="24" /> O que estou fazendo no momento
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Fluentui-Emoji/main/Emojis/Travel%20%26%20Places/Rocket.png" width="24" /> O que estou fazendo no momento
 
-- <img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji/assets/Desktop%20Computer/3D/desktop_computer_3d.png" width="20" /> Desenvolvendo projetos práticos focados em aplicações web e logística inteligente
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Fluentui-Emoji/main/Emojis/Objects/Laptop.png" width="20" /> Desenvolvendo projetos práticos focados em aplicações web e logística inteligente
 
-- <img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji/assets/Locked/3D/locked_3d.png" width="20" /> Praticando conceitos de segurança da informação em ambientes simulados
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Fluentui-Emoji/main/Emojis/Objects/Locked.png" width="20" /> Praticando conceitos de segurança da informação em ambientes simulados
 
-- <img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji/assets/Cloud/3D/cloud_3d.png" width="20" /> Aprofundando estudos em arquitetura e laboratórios de nuvem
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Fluentui-Emoji/main/Emojis/Travel%20%26%20Places/Cloud.png" width="20" /> Aprofundando estudos em arquitetura e laboratórios de nuvem
 
 ---
 
@@ -44,7 +44,7 @@ Atualmente busco uma oportunidade de **estágio em desenvolvimento de software o
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji/assets/Bar%20Chart/3D/bar_chart_3d.png" width="24" /> GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Fluentui-Emoji/main/Emojis/Objects/Bar%20Chart.png" width="24" /> GitHub Stats
 
 <div align="center">
 
@@ -56,7 +56,7 @@ Atualmente busco uma oportunidade de **estágio em desenvolvimento de software o
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji/assets/Snake/3D/snake_3d.png" width="24" /> Contribuições
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Fluentui-Emoji/main/Emojis/Animals%20%26%20Nature/Snake.png" width="24" /> Contribuições
 
 <div align="center">
 
@@ -66,7 +66,7 @@ Atualmente busco uma oportunidade de **estágio em desenvolvimento de software o
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/microsoft/fluentui-emoji/assets/Incoming%20Envelope/3D/incoming_envelope_3d.png" width="24" /> Contato
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Fluentui-Emoji/main/Emojis/Objects/Envelope.png" width="24" /> Contato
 
 <div align="center">
 
