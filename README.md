@@ -14,7 +14,7 @@
 
 # Olá, eu sou Léo 👋
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activity/Direct%20Hit.png" width="22" /> Estudante de Engenharia de Computação apaixonado por resolver problemas e construir soluções.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="22" height="22" /> Estudante de Engenharia de Computação apaixonado por resolver problemas e construir soluções.
 
 Atualmente busco uma oportunidade de **estágio em desenvolvimento de software ou suporte técnico** para aplicar meus conhecimentos na prática e evoluir profissionalmente.
 
