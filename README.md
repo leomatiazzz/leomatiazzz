@@ -14,12 +14,12 @@
 
 # Olá, eu sou Léo 👋
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" width="22" /> Estudante de Engenharia de Computação apaixonado por resolver problemas e construir soluções.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activity/Direct%20Hit.png" width="22" /> Estudante de Engenharia de Computação apaixonado por resolver problemas e construir soluções.
 
 Atualmente busco uma oportunidade de **estágio em desenvolvimento de software ou suporte técnico** para aplicar meus conhecimentos na prática e evoluir profissionalmente.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Round%20Pushpin.png" width="18" /> Brasil  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-mail.png" width="18" /> leomatiasaraujo@gmail.com  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Round%20Push%20Pin.png" width="18" /> Brasil  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="18" height="18" /> leomatiasaraujo@gmail.com  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="18" /> www.linkedin.com/in/leomatias/
 
 ---
@@ -56,7 +56,7 @@ Atualmente busco uma oportunidade de **estágio em desenvolvimento de software o
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20nature/Snake.png" width="24" /> Contribuições
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="24" height="24" /> Contribuições
 
 <div align="center">
 
