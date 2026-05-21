@@ -16,7 +16,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="22" height="22" /> Estudante de Engenharia de Computação apaixonado por resolver problemas e construir soluções.
 
-Atualmente busco uma oportunidade de **estágio em desenvolvimento de software ou suporte técnico** para aplicar meus conhecimentos na prática e evoluir profissionalmente.
+Atualmente desenvolvendo meus conhecimentos **desenvolvimento de software e suporte técnico** para aplicá-los na prática e evoluir profissionalmente.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/World%20Map.png" alt="World Map" width="18" height="18" /> Brasil  
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="18" height="18" /> leomatiasaraujo@gmail.com  
@@ -26,7 +26,7 @@ Atualmente busco uma oportunidade de **estágio em desenvolvimento de software o
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="24" /> O que estou fazendo no momento
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20" /> Desenvolvendo projetos práticos focados em aplicações web e logística inteligente
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20" /> Aplicando projetos práticos focados em aplicações web e logística inteligente
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="20" /> Praticando conceitos de segurança da informação em ambientes simulados
 
