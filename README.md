@@ -1,53 +1,140 @@
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=leomatiazzz&color=7c3aed&style=flat&label=visitas+ao+perfil)
+
+</div>
+
+---
+
 # Olá, eu sou Léo! 👋
 
-🎯 Estudante de Engenharia de Computação, apaixonado por resolver problemas e construir soluções. Atualmente, estou em busca de uma oportunidade de estágio em desenvolvimento de software ou suporte técnico para aplicar meus conhecimentos na prática e evoluir profissionalmente.
+🎯 Estudante de Engenharia de Computação, apaixonado por resolver problemas e construir soluções. Atualmente, estou em busca de uma oportunidade de **estágio em desenvolvimento de software ou suporte técnico** para aplicar meus conhecimentos na prática e evoluir profissionalmente.
 
-📍 Brasil
+📍 Brasil &nbsp;|&nbsp; 📬 [leomatiasaraujo@gmail.com](mailto:leomatiasaraujo@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/leomatias/)
 
-🚀 O que estou fazendo no momento:
-* Desenvolvendo projetos práticos, focando desde interfaces web até lógicas de logística inteligente.
-* Praticando conceitos de segurança da informação em ambientes simulados.
-* Aprofundando estudos práticos em arquitetura e laboratórios de nuvem.
+---
+
+## 🚀 O que estou fazendo no momento
+
+- 🖥️ Desenvolvendo projetos práticos, focando desde interfaces web até lógicas de logística inteligente
+- 🔐 Praticando conceitos de segurança da informação em ambientes simulados
+- ☁️ Aprofundando estudos práticos em arquitetura e laboratórios de nuvem
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width="40" height="40" alt="C#"/>
+      <br><sub><b>C#</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg" width="40" height="40" alt=".NET"/>
+      <br><sub><b>.NET</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript"/>
+      <br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+      <br><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-plain.svg" width="40" height="40" alt="Vue.js"/>
+      <br><sub><b>Vue.js</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" width="40" height="40" alt="Next.js"/>
+      <br><sub><b>Next.js</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40" alt="Python"/>
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
+      <br><sub><b>Django</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="40" height="40" alt="Git"/>
+      <br><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" width="40" height="40" alt="Linux"/>
+      <br><sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-plain.svg" width="40" height="40" alt="Azure"/>
+      <br><sub><b>Azure</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="40" height="40" alt="Docker"/>
+      <br><sub><b>Docker</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-![leomatiazzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=leomatiazzz&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomatiazzz&layout=compact&theme=radical)
+![leomatiazzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=leomatiazzz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomatiazzz&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/leomatiazzz/leomatiazzz/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://raw.githubusercontent.com/leomatiazzz/leomatiazzz/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+</div>
+
+> ⚙️ Para ativar a snake animation, crie o arquivo `.github/workflows/snake.yml` no seu repositório de perfil com o conteúdo abaixo:
+>
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 */12 * * *"
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: leomatiazzz
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/leomatias/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leomatiasaraujo@gmail.com)
+<div align="center">
 
-<!--
-**leomatiazzz/leomatiazzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leomatias/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leomatiasaraujo@gmail.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
